@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# algorithm_test
+This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=question2)](https://solved.ac/question2/)
